@@ -1,0 +1,12 @@
+{
+  "name": "firstpackage1",
+  "version": "1.0.0",
+  "description": "Package to add higher-order functions to arrays",
+  "main": "arrayUtils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
